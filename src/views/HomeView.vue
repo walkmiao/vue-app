@@ -17,8 +17,5 @@ export default {
   mounted() {
     console.log("mounted");
   },
-  created() {
-    console.log("createdddd");
-  },
 };
 </script>
